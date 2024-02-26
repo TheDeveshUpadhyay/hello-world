@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Devesh Registered for DevOps Learning todady</h1>
+    <h1>Devesh Registered for DevOps And AWS courses earning todady</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
