@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter your Bhavya devops delhi devesh Name</b></label>
+    <label for="Name"><b>Enter your Bhavya and devesh devops delhi devesh Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter 10-march Bhavya aws delhi devesh mobile</b></label>
+    <label for="mobile"><b>Enter 10-march Bhavya and devesh aws delhi devesh mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
