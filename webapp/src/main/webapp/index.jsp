@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter today is 06 october Sunday primary mobile</b></label>
+    <label for="mobile"><b>Enter today is 06 october Sunday iand tomorrow is monday primary mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
