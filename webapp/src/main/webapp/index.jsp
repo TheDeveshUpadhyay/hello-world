@@ -4,7 +4,7 @@
     <p>All registration done 20-oct kervachouth Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Devesh sir please Enter your Good Name</b></label>
+    <label for="Name"><b>Devesh sir please Enter your Good Name today is 11-november</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
