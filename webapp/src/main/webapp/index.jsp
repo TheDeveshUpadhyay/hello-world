@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Today is/am/are 20 october for new the registration from the morning DevOps And AWS courses earning todady</h1>
-    <p>All registration done 20-oct kervachouth Please fill in this form to create an account.</p>
+    <h1>Today is 27-november for new the registration from the morning DevOps And AWS courses earning todady</h1>
+    <p>All registration done Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Devesh sir please Enter your Good Name today is 11-november again AAP</b></label>
