@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Today is 28-november in night time and tomorrow I am going my home packing done for new the registration from the morning DevOps And AWS courses earning todady</h1>
+    <h1>Tomorrow is 29-nov for new the registration from the morning DevOps And AWS courses earning todady</h1>
     <p>All registration done Please fill in this form to create an account.</p>
     <hr>
      
